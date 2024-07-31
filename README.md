@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekylekirby&label=Profile%20views&color=0e75b6&style=flat" alt="thekylekirby" /> </p>
 
-- 🔭 I’m currently working on **React Portfolio.**
+- 🔭 I’m currently working on **Portfolio using React.**
 
 - 🌱 I’m currently learning **React, mySQL, Express.js**
 
