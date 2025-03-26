@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekylekirby&label=Profile%20views&color=0e75b6&style=flat" alt="thekylekirby" /> </p>
 
-- 🔭 I’m currently working on **Portfolio using React.**
+- 🔭 I’m currently working on **my portfolio using React.**
 
 - 🌱 I’m currently learning **React, mySQL, Express.js**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kylekirby86@gmail.com**
 
-- ⚡ Fun fact **I have had 4 ankle surgeries on the same ankle, with more to come!**
+- ⚡ Fun fact **I have had 5 ankle surgeries on the same ankle!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
