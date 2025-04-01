@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekylekirby&label=Profile%20views&color=0e75b6&style=flat" alt="thekylekirby" /> </p>
 
-- 🔭 I’m currently working on **my portfolio using React.**
+- 🔭 I’m currently working on **Seagull Diesel Parts Landing Page.**
 
-- 🌱 I’m currently learning **React, mySQL, Express.js**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **anything I can get my hands on!**
 
-- 🤝 I’m looking for help with **furthering my coding knowledge.**
+- 🤝 I’m looking for help with **finding a Jr. Dev position.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheKyleKirby](https://github.com/TheKyleKirby)
 
